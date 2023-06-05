@@ -1,4 +1,6 @@
-### Hi there 👋
+![](https://tenor.com/uAhe.gif)
+
+### Hi 🙏
 
 - 🌱 I’m currently learning **HTML, CSS, JavaScript, SQL, Node.JS, REACT**
 - :football: **Flag Football** coach and player
