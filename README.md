@@ -1,12 +1,12 @@
 ## Hi, I'm Anderson Spessatto 🙏
 
-### About
-- :computer: I'm currently studying fullstack web development at Rocketseat
-- :memo: Journalist by Universidade Federal de Santa Catarina
-- :briefcase: Content marketer
+#### About
+- :computer: I'm currently studying **fullstack web development** at Rocketseat
+- :memo: **Journalist** by Universidade Federal de Santa Catarina
+- :briefcase: **Content marketer**
 - :football: **Flag Football** coach and player
 
-### Current stacks
+#### Current stacks
 
 - :zap: **Main language:** `JavaScript`
 - 📌 **Backend:** `NodeJS`
