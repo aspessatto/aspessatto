@@ -6,7 +6,7 @@
 - :briefcase: **Content marketer**
 - :football: **Flag Football** coach and player
 
-#### Current stacks
+#### Current stack
 
 - :zap: **Main language:** `JavaScript`
 - 📌 **Backend:** `NodeJS`
