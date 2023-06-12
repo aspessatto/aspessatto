@@ -1,3 +1,5 @@
+![](https://media.tenor.com/kExMMCcDRJkAAAAC/take-your-dog-to-work-day-good-boy.gif)
+
 ## Hi, I'm Anderson Spessatto 🙏
 
 #### About
