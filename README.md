@@ -10,7 +10,7 @@
 
 - :zap: **Main language:** `JavaScript`
 - 📌 **Backend:** `NodeJS`
-- :tada: **Frontend:** `JavaScript`, `ReactJS`, `HTML5`, `CSS3`
+- :tada: **Frontend:** `JavaScript`, `React`, `HTML5`, `CSS3`
 - 🎨 **Layout design:** `Figma`
 - 📦️ **Version code control:** `Git & GitHub`
 - 🔧 **Tools:** `VsCode`
